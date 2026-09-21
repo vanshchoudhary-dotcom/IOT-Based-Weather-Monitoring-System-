@@ -1,4 +1,4 @@
-IoT Based Weather Monitoring System
+#IoT Based Weather Monitoring System
 Overview
 The IoT Based Weather Monitoring System is a smart environmental monitoring solution designed to collect and display real-time weather parameters. The system uses multiple sensors to measure temperature, humidity, and rainfall levels and transmits the collected data to the cloud using Wi-Fi. The monitored data is displayed locally on an LCD screen and visualized remotely through ThingSpeak in graphical format.
 
