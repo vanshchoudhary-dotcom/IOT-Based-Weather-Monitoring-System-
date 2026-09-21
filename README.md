@@ -1,10 +1,10 @@
 #IoT Based Weather Monitoring System
 
-Overview
+Overview:
 
 The IoT Based Weather Monitoring System is a smart environmental monitoring solution designed to collect and display real-time weather parameters. The system uses multiple sensors to measure temperature, humidity, and rainfall levels and transmits the collected data to the cloud using Wi-Fi. The monitored data is displayed locally on an LCD screen and visualized remotely through ThingSpeak in graphical format.
 
-Features
+Features:
 
 Real-time temperature monitoring
 Real-time humidity monitoring
@@ -14,7 +14,7 @@ Wireless data transmission using Wi-Fi
 Cloud-based data logging using ThingSpeak
 Graphical representation of environmental parameters
 
-Components Used
+Components Used:
 
 NodeMCU (ESP8266)
 DHT11 Temperature and Humidity Sensor
@@ -23,7 +23,7 @@ Rain Sensor Module
 Power Supply
 Jumper Wires
 
-Working Principle
+Working Principle:
 
 The DHT11 sensor measures temperature and humidity from the surrounding environment.
 The rain sensor detects rainfall intensity and rain level.
@@ -35,7 +35,7 @@ System Architecture
 Sensors (DHT11 + Rain Sensor) | v NodeMCU ESP8266 |
 | | v v LCD Display ThingSpeak Cloud | v Graphical Analysis
 
-Applications
+Applications:
 
 Smart Agriculture
 Weather Monitoring Stations
@@ -43,14 +43,14 @@ Environmental Monitoring
 Smart City Projects
 Educational and Research Applications
 
-Technologies Used
+Technologies Used:
 
 Embedded C / Arduino IDE
 ESP8266 Wi-Fi Module
 IoT (Internet of Things)
 ThingSpeak Cloud Platform
 
-Results
+Results:
 
 The system successfully monitors environmental conditions and displays:
 
